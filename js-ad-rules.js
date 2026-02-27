@@ -237,6 +237,7 @@
         "keywords": [],
         "classes": [
             "card-content",
+            "external-fx",
             "footer_container",
             "swipeImg",
             "twoColumnAdv"
