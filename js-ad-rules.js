@@ -262,9 +262,11 @@
             "span.rightBtn.sc-text",
             "span[class*='cysc']",
             "span[class*='tcjy']",
+            "a[class*='cysc']",
+            "a[class*='tcjy']",
             "span[class^='vodContainer-list-item'].i(0)",
             ".van-tab.i(-3,-2)",
-            "li.van-tab.i(-3,-2)"
+            "li.navbar-item.i(-3,-2)"
         ],
         "idsToHide": [
             "popup1",
