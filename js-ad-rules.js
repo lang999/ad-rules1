@@ -242,11 +242,10 @@
             "footer_container",
             "header-container.i(1)",
             "swipeImg",
-            "sycs",
-            "tcjy",
             "twoColumnAdv",
             "van-icon",
-            "vod-share"
+            "vod-share",
+            "van-tab.i(-2)"
         ],
         "selectors": [
             "div.app-abk.sc-text",
