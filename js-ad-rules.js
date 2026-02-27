@@ -240,17 +240,18 @@
             "external-fx",
             "footer_container",
             "swipeImg",
-            "twoColumnAdv"
+            "twoColumnAdv",
+            "vod-share"
         ],
         "selectors": [
             "div.container.light-block",
             "div.container[style=\"margin-top: 10px;\"]",
-            "div[style=\"display: block; width: 96%;\"]",
             "div[style=\"text-align:center;\"]",
             "span.rightBtn",
             "span.rightBtn.sc-text",
             "span.van-tab__text.sc-text.cysc",
-            "span.van-tab__text.sc-text.tcjy"
+            "span.van-tab__text.sc-text.tcjy",
+            "span[style=\"display: block;\"]"
         ],
         "idsToHide": [],
         "interval": 1600
