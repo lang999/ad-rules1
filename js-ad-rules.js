@@ -71,8 +71,7 @@
                 "keywords": [
                     "一键脱衣",
                     "催情春药",
-                    "同城约炮",
-                    "最新"
+                    "同城约炮"
                 ]
             }
         ],
@@ -141,7 +140,7 @@
     "[看看]": {
         "keywords": [
             {
-                "selector": "uni-view",
+                "selector": "uni-view.cooperation > uni-view.every-box > uni-view",
                 "keywords": [
                     "feiji"
                 ]
