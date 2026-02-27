@@ -140,9 +140,9 @@
     "[看看]": {
         "keywords": [
             {
-                "selector": "uni-view.cooperation > uni-view.every-box > uni-view",
+                "selector": "uni-view.every-box > uni-view",
                 "keywords": [
-                    "feiji"
+                    "feiji1237"
                 ]
             }
         ],
