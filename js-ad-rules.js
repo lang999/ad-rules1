@@ -256,23 +256,15 @@
             "span.van-tab__text.sc-text.tcjy",
             "span[class^='vodContainer-list-item'].i(0)",
             "div[class^='vodContainer-list-item'].i(5)",
-            "div.section.i(-1)"
+            "div.section.i(-1)",
+            "div.app-abk.sc-text",
+            "div.external-block-480j43a5c"
         ],
         "idsToHide": [
             "popup1",
             "popup2",
             "popup-overly"
         ],
-        "interval": 1600
-    },
-    "[小黄书]": {
-        "keywords": [],
-        "classes": [],
-        "selectors": [
-            "div.app-abk.sc-text",
-            "div.external-block-480j43a5c"
-        ],
-        "idsToHide": [],
         "interval": 1600
     }
 }
