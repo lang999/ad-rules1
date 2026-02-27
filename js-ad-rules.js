@@ -236,7 +236,6 @@
     "[小黄书]": {
         "keywords": [],
         "classes": [
-            "card-content",
             "el-dialog__wrapper",
             "external-fx",
             "external-fx-content",
