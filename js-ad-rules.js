@@ -244,7 +244,8 @@
             "swipeImg",
             "twoColumnAdv",
             "van-icon",
-            "vod-share"
+            "vod-share",
+            "js-show-ios"
         ],
         "selectors": [
             "div.app-abk.sc-text",
