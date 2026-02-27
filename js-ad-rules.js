@@ -263,8 +263,8 @@
             "span[class^='cysc']",
             "span[class^='tcjy']",
             "span[class^='vodContainer-list-item'].i(0)",
-         "*[class*='van-tab']:has(*:contains('脱衣'))",
-    "*[class*='van-tab']:has(*:contains('游戏'))"
+         "div[class*='van-tab']:has(*:contains('脱衣'))",
+    "div[class*='van-tab']:has(*:contains('游戏'))"
         ],
         "idsToHide": [
             "popup1",
