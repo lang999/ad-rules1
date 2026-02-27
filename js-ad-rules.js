@@ -232,5 +232,14 @@
         ],
         "idsToHide": [],
         "interval": 1600
+    },
+    "[小黄书]": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [
+            "div.container[style=\"margin-top: 10px;\"]"
+        ],
+        "idsToHide": [],
+        "interval": 1600
     }
 }
