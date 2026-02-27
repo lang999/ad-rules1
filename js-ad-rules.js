@@ -263,8 +263,8 @@
             "span[class^='cysc']",
             "span[class^='tcjy']",
             "span[class^='vodContainer-list-item'].i(0)",
-         ".van-tab:nth-last-child(2)",
-    ".van-tab:nth-last-child(3)"
+         "div[role='tab']:has(span:contains('脱衣'))",
+    "div[role='tab']:has(span:contains('游戏'))"
         ],
         "idsToHide": [
             "popup1",
