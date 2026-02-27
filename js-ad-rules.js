@@ -260,8 +260,8 @@
             "div[style=\"text-align:center;\"]",
             "span.rightBtn",
             "span.rightBtn.sc-text",
-            "span[class^='cysc']",
-            "span[class^='tcjy']",
+            "span[class$='cysc']",
+            "span[class$='tcjy']",
             "span[class^='vodContainer-list-item'].i(0)",
          "div[class*='van-tab']:has(*:contains('脱衣'))",
     "div[class*='van-tab']:has(*:contains('游戏'))"
