@@ -251,7 +251,7 @@
             "span.rightBtn.sc-text",
             "span.van-tab__text.sc-text.cysc",
             "span.van-tab__text.sc-text.tcjy",
-            "span[style=\"display: block;\"]"
+            "span.vodContainer-list-i-b-content[style=\"display: block;\"]"
         ],
         "idsToHide": [],
         "interval": 1600
