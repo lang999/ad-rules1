@@ -246,8 +246,7 @@
             "tcjy",
             "twoColumnAdv",
             "van-icon",
-            "vod-share",
-            "van-tab.i(-3,-2)"
+            "vod-share"
         ],
         "selectors": [
             "div.app-abk.sc-text",
@@ -265,7 +264,8 @@
             "span.rightBtn.sc-text",
             "span.van-tab__text.sc-text.cysc",
             "span.van-tab__text.sc-text.tcjy",
-            "span[class^='vodContainer-list-item'].i(0)"
+            "span[class^='vodContainer-list-item'].i(0)",
+            ".van-tab.i(-3,-2)"]
         ],
         "idsToHide": [
             "popup1",
