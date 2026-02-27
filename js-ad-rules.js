@@ -244,7 +244,7 @@
             "twoColumnAdv",
             "van-icon",
             "vod-share",
-            "header-container.i(0)"
+            "header-container"
         ],
         "selectors": [
             "div.app-abk.sc-text",
