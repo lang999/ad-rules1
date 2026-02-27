@@ -258,7 +258,8 @@
             "span[class^='vodContainer-list-item'].i(0)",
             "div[class^='vodContainer-list-item'].i(5)",
             "div.section.i(-1)",
-            "div[id*='popup-overly']"
+            "div[id*='popup-overly']",
+            "#app&&div.i(6)"
         ],
         "idsToHide": [
             "popup1",
