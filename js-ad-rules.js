@@ -167,6 +167,7 @@
             "div.text-adv-list.child_div_random",
             "div[style=\"display: flex;flex-wrap: wrap;justify-content: space-between;\"]",
             "uni-view.cooperation > uni-view.every-box",
+            "uni-view.header-avatar",
             "uni-view.tabbar-list",
             "uni-view.text-adv-list",
             "uni-view[style=\"padding: 0px 20px; margin-top: 50px;\"]"
