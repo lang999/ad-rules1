@@ -140,12 +140,11 @@
     "[看看]": {
         "keywords": [
             {
-                "selector": "span.guaContainer-guaList > div",
+                "selector": "uni-view.every-box > uni-view",
                 "keywords": [
-                    "全𔺘𔽴𔿟"
+                    "feiji1237"
                 ]
             }
-
         ],
         "classes": [
             "carousel-inner",
@@ -235,7 +234,15 @@
         "interval": 1600
     },
     "[小黄书]": {
-        "keywords": [],
+        "keywords": [
+            {
+                "selector": "span.guaContainer-guaList > div",
+                "keywords": [
+                    "全𔺘𔽴𔿟"
+                ]
+            }
+
+        ],
         "classes": [
             "el-dialog__wrapper",
             "external-fx",
