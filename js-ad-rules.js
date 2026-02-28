@@ -236,7 +236,7 @@
     "[小黄书]": {
         "keywords": [
             {
-                "selector": "span.guaContainer-guaList > div",
+                
                 "keywords": [
                     "全𔺘𔽴𔿟"
                 ]
