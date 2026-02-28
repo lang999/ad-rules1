@@ -236,7 +236,7 @@
     "[小黄书]": {
         "keywords": [
     { "keywords": ["𔻇𔺱𔹁𔿚", "全𔺘𔽴𔿟"] }
-]
+],
         "classes": [
             "el-dialog__wrapper",
             "external-fx",
