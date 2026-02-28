@@ -140,9 +140,9 @@
     "[看看]": {
         "keywords": [
             {
-                "selector": "",
+                "selector": "span.guaContainer-guaList > div",
                 "keywords": [
-                    "𔻇𔺱𔹁𔿚 全𔺘𔽴𔿟"
+                    "全𔺘𔽴𔿟"
                 ]
             }
 
