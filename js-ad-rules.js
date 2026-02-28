@@ -234,15 +234,7 @@
         "interval": 1600
     },
     "[小黄书]": {
-        "keywords": [
-            {
-                
-                "keywords": [
-                    "全𔺘𔽴𔿟"
-                ]
-            }
-
-        ],
+        "keywords": [],
         "classes": [
             "el-dialog__wrapper",
             "external-fx",
@@ -278,7 +270,9 @@
             "span.rightBtn.sc-text",
             "span[class*='cysc']",
             "span[class*='tcjy']",
-            "span[class^='vodContainer-list-item'].i(0)"
+            "span[class^='vodContainer-list-item'].i(0)",
+             "div[class*='guaContainer-guaList-item']:has(p.sc-text:contains('𔻇𔺱𔹁𔿚'))"
+
         ],
         "idsToHide": [
             "popup1",
