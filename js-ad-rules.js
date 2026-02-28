@@ -268,7 +268,7 @@
             "div[style=\"text-align:center;\"]",
             "id[class^='left']",
             "li.navbar-item.i(-3,-2)",
-            "p[style=\"text-align: center;\"]",
+            "p[style=\"text-align: center;\"].t(𔺧𔹾租赁).p(0)",
             "span.rightBtn",
             "span.rightBtn.sc-text",
             "span[class*='cysc']",
