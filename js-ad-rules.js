@@ -257,25 +257,24 @@
             "div.container.light-block",
             "div.container[style=\"margin-top: 10px;\"]",
             "div.external-block-480j43a5c",
+            "div.list-grid.abk-list",
             "div.menu-link.menu-link-animate.red",
             "div.menu-link.menu-link-animate.yellow",
             "div.section.i(-1)",
             "div.swiper-wrapper[aria-live=\"off\"]",
+            "div[class*='guaContainer-guaList-item'].t(𔻇𔺱𔹁𔿚 全𔺘𔽴𔿟).p(0)",
             "div[class^='cvfooter']",
             "div[class^='vodContainer-list-item'].i(5)",
             "div[style=\"text-align:center;\"]",
             "id[class^='left']",
             "li.navbar-item.i(-3,-2)",
+            "p[style=\"text-align: center;\"]",
             "span.rightBtn",
             "span.rightBtn.sc-text",
             "span[class*='cysc']",
             "span[class*='tcjy']",
-            "span[class^='vodContainer-list-item'].i(0)",
-             "div[class*='guaContainer-guaList-item'].t(𔻇𔺱𔹁𔿚 全𔺘𔽴𔿟).p(0)",
-             "span[class*='vodContainer-list-item'].t(𔻇𔺱𔹁𔿚 全𔺘𔽴𔿟).p(0)"
-             
-
-
+            "span[class*='vodContainer-list-item'].t(𔻇𔺱𔹁𔿚 全𔺘𔽴𔿟).p(0)",
+            "span[class^='vodContainer-list-item'].i(0)"
         ],
         "idsToHide": [
             "popup1",
