@@ -331,7 +331,7 @@
         "classes": [
             "animate__animated",
             "overflow-hidden",
-            "single_page"
+            "px-[8px]"
         ],
         "selectors": [],
         "idsToHide": [
