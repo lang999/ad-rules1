@@ -162,6 +162,7 @@
             }
         ],
         "classes": [
+            "carousel2-container",
             "app-abk",
             "carousel-inner",
             "carousel-long",
