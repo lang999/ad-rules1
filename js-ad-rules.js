@@ -27,6 +27,12 @@
                 "keywords": [
                     "澳门新葡京"
                 ]
+            },
+             {
+                "selector": "div>a",
+                "keywords": [
+                    "永久看片"
+                ]
             }
         ],
         "classes": [
@@ -42,7 +48,9 @@
             "i.icon.iconfont.icon-account",
             "uni-view.news-box",
             "uni-view.tabbar-list",
-            "uni-view[style=\"display: flex; flex-wrap: wrap; justify-content: space-between;\"]"
+            "uni-view[style=\"display: flex; flex-wrap: wrap; justify-content: space-between;\"]",
+            "a[class^='downurl']",
+            "div[style=\"margin-top: 5px;\"]"
         ],
         "idsToHide": [
             "__clb-spot_2090934_fxi_1",
