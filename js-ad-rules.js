@@ -286,6 +286,7 @@
     "31xx": {
         "keywords": [],
         "classes": [
+            "downurl",
             "footer",
             "xxlaink"
         ],
