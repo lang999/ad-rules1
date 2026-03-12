@@ -31,7 +31,14 @@
             {
                 "selector": "div>a",
                 "keywords": [
-                    "永久看片"
+                    "永久看片",
+                    "成人游戏"
+                ]
+            },
+            {
+                "selector": "li>a",
+                "keywords": [
+                    "成人游戏"
                 ]
             }
         ],
