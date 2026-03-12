@@ -328,11 +328,15 @@
     },
     "[红桃]": {
         "keywords": [],
-        "classes": [],
-        "selectors": [
-            "[class^='div-def']"
+        "classes": [
+            "animate__animated",
+            "overflow-hidden",
+            "single_page"
         ],
-        "idsToHide": [],
+        "selectors": [],
+        "idsToHide": [
+            "app1"
+        ],
         "interval": 1600
     }
 }
