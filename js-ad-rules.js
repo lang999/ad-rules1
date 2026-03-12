@@ -330,7 +330,7 @@
         "keywords": [],
         "classes": [],
         "selectors": [
-            "hcx[class^='div-def']"
+            "[class^='div-def']"
         ],
         "idsToHide": [],
         "interval": 1600
