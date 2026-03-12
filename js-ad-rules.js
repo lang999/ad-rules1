@@ -282,5 +282,19 @@
             "popup-overly"
         ],
         "interval": 1600
+    },
+    "31xx": {
+        "keywords": [],
+        "classes": [
+            "footer"
+        ],
+        "selectors": [
+            "span[class*='a-link'].t(成人游戏).p(0)"
+        ],
+        "idsToHide": [
+            "popup-overlay",
+            "popup0"
+        ],
+        "interval": 1600
     }
 }
