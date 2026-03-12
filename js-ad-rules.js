@@ -28,7 +28,7 @@
                     "澳门新葡京"
                 ]
             },
-             {
+            {
                 "selector": "div>a",
                 "keywords": [
                     "永久看片"
@@ -294,6 +294,7 @@
     "31xx": {
         "keywords": [],
         "classes": [
+            "caption",
             "downurl",
             "footer",
             "xxlaink"
