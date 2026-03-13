@@ -329,13 +329,11 @@
     "[红桃]": {
         "keywords": [],
         "classes": [
-            "animate__animated",
-            "overflow-hidden",
             "app1"
         ],
         "selectors": [],
         "idsToHide": [
-            "app1"
+        
         ],
         "interval": 1600
     }
