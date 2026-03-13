@@ -327,8 +327,7 @@
         "interval": 1600
     },
     
-
-  "[红桃]": {
+  "ht90.vip": {
     "selectors": [
       "div:has(> a[href*='app'])", 
       "div[style*='z-index: 999']",
