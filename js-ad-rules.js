@@ -326,16 +326,39 @@
         ],
         "interval": 1600
     },
-    "[红桃]": {
-        "keywords": [],
-        "classes": [
-            "app1",
-           "div[src*='gif']"
-        ],
-        "selectors": [],
-        "idsToHide": [
-        
-        ],
-        "interval": 1600
-    }
+    
+  "[红桃]": {
+    "selectors": [
+      ".adv_box",
+      ".fixed_ads",
+      ".pop_layer",
+      "div[style*='z-index: 999']",
+      "div[style*='position: fixed'][style*='bottom: 0']",
+      "a[href*='tg.']",
+      ".player_mask.t(查看详情).p(1)",
+      ".player_mask.t(立即播放).p(1)"
+    ],
+    "classes": [
+      "ad_img",
+      "fixed-ad",
+      "float-ad"
+    ],
+    "idsToHide": [
+      "ad_float",
+      "popup_ad"
+    ],
+    "blockUrls": [
+      "*ad-system.com*",
+      "*tongji*",
+      "*/ads/*",
+      "*pos.baidu.com*"
+    ],
+    "keywords": [
+      {
+        "selector": "div",
+        "keywords": ["点击播放", "安装APP", "加群", "特邀", "充值"]
+      }
+    ]
+  }
+
 }
