@@ -327,7 +327,7 @@
         "interval": 1600
     },
     
-  "ht90.vip": {
+  "[红桃]": {
     "selectors": [
       "div:has(> a > img)",
       "div[style*='fixed']",
