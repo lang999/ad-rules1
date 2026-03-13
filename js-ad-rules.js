@@ -326,36 +326,32 @@
         ],
         "interval": 1600
     },
-    
+ 
   "ht90.vip": {
     "selectors": [
-      "div:has(> a > img)",
+      "div.t(下载APP).p(1)",
+      "div.t(附近学生).p(1)",
+      "div.t(棋牌).p(1)",
+      "div.t(金沙).p(1)",
+      "div.t(娱乐).p(1)",
+      "div.t(威尼斯).p(1)",
+      "div.t(注册即送).p(1)",
+      "div.t(开元).p(1)",
+      "div.t(美高梅).p(1)",
+      "div.t(大发).p(1)",
+      "div.t(凤凰).p(1)",
+      "div.t(新葡京).p(1)",
+      "div.t(PG).p(1)",
       "div[style*='fixed']",
-      "div[style*='z-index']",
-      "a[href*='http']",
-      "div[class*='fixed']",
-      "div[class*='pop']"
+      "div[style*='z-index: 999']"
     ],
     "keywords": [
       {
-        "selector": "div, a, span",
+        "selector": "div, a",
         "keywords": [
-          "下载APP", "下载", "APP", "棋牌", "娱乐", "金沙", "开元", 
-          "送8888", "官方直营", "立即播放", "查看详情", "附近学生", 
-          "春药", "姐妹双飞", "脱衣", "良家", "直播", "赌场", "葡京"
+          "下载APP", "开元", "棋牌", "金沙", "威尼斯", "PG娱乐", "注册即送", "官方直营", "春药", "脱衣", "新葡京"
         ]
       }
-    ],
-    "blockUrls": [
-      "*.png", "*.gif", "*.jpg", "*.jpeg" 
-    ]
-  },
-  "x2m9w.vip": {
-    "selectors": [
-      "div[style*='position: fixed']",
-      "div[style*='z-index: 999']",
-      ".player_mask",
-      "iframe"
     ]
   }
 
