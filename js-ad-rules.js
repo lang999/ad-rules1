@@ -329,41 +329,34 @@
     
   "ht90.vip": {
     "selectors": [
-      "div:has(> a[href*='app'])", 
-      "div[style*='z-index: 999']",
-      "div[style*='position: fixed'] > a[href*='download']",
-      "div.top-down",
-      ".floating-ad",
-      ".pop-window",
-      "a[href*='849.com']",
-      "a[href*='707.com']",
-      "a[href*='575r.com']",
-      "a[href*='4888.com']"
-    ],
-    "classes": [
-      "app-download-bar",
-      "bottom-fixed-ad",
-      "right-float-gold"
+      "div:has(> a > img)",
+      "div[style*='fixed']",
+      "div[style*='z-index']",
+      "a[href*='http']",
+      "div[class*='fixed']",
+      "div[class*='pop']"
     ],
     "keywords": [
       {
-        "selector": "div, a",
-        "keywords": ["下载APP", "澳门金沙", "开元棋牌", "博彩", "注册即送", "美高梅", "葡京"]
+        "selector": "div, a, span",
+        "keywords": [
+          "下载APP", "下载", "APP", "棋牌", "娱乐", "金沙", "开元", 
+          "送8888", "官方直营", "立即播放", "查看详情", "附近学生", 
+          "春药", "姐妹双飞", "脱衣", "良家", "直播", "赌场", "葡京"
+        ]
       }
+    ],
+    "blockUrls": [
+      "*.png", "*.gif", "*.jpg", "*.jpeg" 
     ]
   },
   "x2m9w.vip": {
     "selectors": [
-      ".player-ads",
-      ".video-mask-container",
-      "div[class*='vjs-ad']",
-      ".detail-ad-box"
-    ],
-    "keywords": [
-      {
-        "selector": "span, div",
-        "keywords": ["查看详情", "立即播放", "秒后跳过"]
-      }
+      "div[style*='position: fixed']",
+      "div[style*='z-index: 999']",
+      ".player_mask",
+      "iframe"
     ]
   }
+
 }
