@@ -327,36 +327,43 @@
         "interval": 1600
     },
     
+
   "[红桃]": {
     "selectors": [
-      ".adv_box",
-      ".fixed_ads",
-      ".pop_layer",
+      "div:has(> a[href*='app'])", 
       "div[style*='z-index: 999']",
-      "div[style*='position: fixed'][style*='bottom: 0']",
-      "a[href*='tg.']",
-      ".player_mask.t(查看详情).p(1)",
-      ".player_mask.t(立即播放).p(1)"
+      "div[style*='position: fixed'] > a[href*='download']",
+      "div.top-down",
+      ".floating-ad",
+      ".pop-window",
+      "a[href*='849.com']",
+      "a[href*='707.com']",
+      "a[href*='575r.com']",
+      "a[href*='4888.com']"
     ],
     "classes": [
-      "ad_img",
-      "fixed-ad",
-      "float-ad"
-    ],
-    "idsToHide": [
-      "ad_float",
-      "popup_ad"
-    ],
-    "blockUrls": [
-      "*ad-system.com*",
-      "*tongji*",
-      "*/ads/*",
-      "*pos.baidu.com*"
+      "app-download-bar",
+      "bottom-fixed-ad",
+      "right-float-gold"
     ],
     "keywords": [
       {
-        "selector": "div",
-        "keywords": ["点击播放", "安装APP", "加群", "特邀", "充值"]
+        "selector": "div, a",
+        "keywords": ["下载APP", "澳门金沙", "开元棋牌", "博彩", "注册即送", "美高梅", "葡京"]
+      }
+    ]
+  },
+  "x2m9w.vip": {
+    "selectors": [
+      ".player-ads",
+      ".video-mask-container",
+      "div[class*='vjs-ad']",
+      ".detail-ad-box"
+    ],
+    "keywords": [
+      {
+        "selector": "span, div",
+        "keywords": ["查看详情", "立即播放", "秒后跳过"]
       }
     ]
   }
