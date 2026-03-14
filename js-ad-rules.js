@@ -265,11 +265,12 @@
             "external-fx-content",
             "footer_container",
             "header-container.i(1)",
+            "js-show-ios",
             "swipeImg",
             "twoColumnAdv",
+            "v-modal",
             "van-icon",
-            "vod-share",
-            "js-show-ios"
+            "vod-share"
         ],
         "selectors": [
             ".van-tab.i(-3,-2)",
@@ -329,6 +330,4 @@
         ],
         "interval": 1600
     }
- 
- 
 }
