@@ -307,7 +307,8 @@
         ],
         "idsToHide": [
             "popup1",
-            "popup2"
+            "popup2",
+            "popup-overly[style=\"\"]"
         ],
         "interval": 1600
     },
