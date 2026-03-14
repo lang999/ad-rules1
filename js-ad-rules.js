@@ -270,7 +270,8 @@
             "twoColumnAdv",
             "v-modal",
             "van-icon",
-            "vod-share"
+            "vod-share",
+            "dialog__wrapper"
         ],
         "selectors": [
             ".van-tab.i(-3,-2)",
