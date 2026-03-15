@@ -114,6 +114,7 @@
     "_exclude": [
         "127.0.0.1",
         "a123tv.com",
+        "gemini",
         "grok",
         "hohai"
     ],
