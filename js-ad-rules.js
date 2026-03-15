@@ -335,6 +335,7 @@
     "[gemini]": {
         "keywords": [],
         "classes": [
+            "mdc-button--unelevated",
             "playback-speed-menu-trigger"
         ],
         "selectors": [],
