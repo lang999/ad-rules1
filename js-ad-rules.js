@@ -342,5 +342,14 @@
         "selectors": [],
         "idsToHide": [],
         "interval": 1600
+    },
+    "[极上]": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [
+            "dl.i(0)"
+        ],
+        "idsToHide": [],
+        "interval": 1600
     }
 }
