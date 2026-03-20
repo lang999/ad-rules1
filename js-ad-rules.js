@@ -362,19 +362,12 @@
         "classes": [],
         "selectors": [
             "div[class*='movv-ad']",
-            "div[style=\"gap: 0px;\"]"
-        ],
-        "idsToHide": [],
-        "interval": 1600
-    },
-    "[jav]": {
-        "keywords": [],
-        "classes": [],
-        "selectors": [
-         "div[class*='bottomRight--']",
+            "div[style=\"gap: 0px;\"]",
+            "div[class*='bottomRight']",
             "div[style=\"width: 330px; height: 185px;\"]"
         ],
         "idsToHide": [],
         "interval": 1600
     }
+
 }
