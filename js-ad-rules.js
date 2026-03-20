@@ -362,8 +362,7 @@
         "classes": [],
         "selectors": [
             "div[class^='movv-ad']",
-            "div[style=\"gap: 0px;\"]",
-            "div[style=\"margin-bottom:20px; \"]
+            "div[style=\"gap: 0px;\"]"
         ],
         "idsToHide": [],
         "interval": 1600
