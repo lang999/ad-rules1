@@ -64,7 +64,7 @@
             "uni-view.tabbar-list",
             "uni-view[style=\"display: flex; flex-wrap: wrap; justify-content: space-between;\"]",
             "a[class^='downurl']",
-           "div[style*='opacity:0.']"
+            "div[style*='opacity:0.']"
         ],
         "idsToHide": [
             "__clb-spot_2090934_fxi_1",
@@ -109,10 +109,9 @@
             "div[style=\"margin-bottom: 10px;\"]",
             "span[style=\"color: gold\"]",
             "span[class*='van-tab'].t(同城约炮).p(0)",
-             "span[class*='van-tab'].t(一键脱衣).p(0)",
-              "span[class*='van-tab'].t(催情春药).p(0)",
-              "div[style*='opacity:0.']"
-           
+            "span[class*='van-tab'].t(一键脱衣).p(0)",
+            "span[class*='van-tab'].t(催情春药).p(0)",
+            "div[style*='opacity:0.']"
         ],
         "idsToHide": [],
         "interval": 1600
@@ -354,6 +353,16 @@
         "classes": [],
         "selectors": [
             "dl.i(0)"
+        ],
+        "idsToHide": [],
+        "interval": 1600
+    },
+    "[jav]": {
+        "keywords": [],
+        "classes": [],
+        "selectors": [
+            "div[class*='movv-ad']",
+            "div[style=\"gap: 0px;\"]"
         ],
         "idsToHide": [],
         "interval": 1600
