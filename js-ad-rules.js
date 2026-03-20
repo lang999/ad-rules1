@@ -357,12 +357,13 @@
         "idsToHide": [],
         "interval": 1600
     },
-    "[jav]": {
+    "supjav.com": {
         "keywords": [],
         "classes": [],
         "selectors": [
-            "div[class*='movv-ad']",
+            "div[class^='movv-ad']",
             "div[style=\"gap: 0px;\"]"
+            "div=[style=\"margin-bottom:20px; \"]
         ],
         "idsToHide": [],
         "interval": 1600
