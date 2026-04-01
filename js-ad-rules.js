@@ -295,7 +295,6 @@
             "div[class*='saveURLBtn']",
             "div[class^='cvfooter']",
             "div[class^='external-fx-footer-wrap']",
-            "div[class^='external-fx-top']",
             "div[class^='vodContainer-list-item'].i(5)",
             "div[role=\"dialog\"]",
             "div[style=\"text-align:center;\"]",
